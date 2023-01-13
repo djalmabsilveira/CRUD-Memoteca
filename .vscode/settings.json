@@ -2,7 +2,7 @@
   // VS Code
   "workbench.startupEditor": "newUntitledFile",
   "workbench.editor.labelFormat": "short",
-  "workbench.colorTheme": "Dracula",
+  "workbench.colorTheme": "Omni",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.editor.enablePreview": false,
   // "editor.fontFamily": "Liga Droid Sans Mono",
