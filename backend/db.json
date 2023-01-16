@@ -1,28 +1,40 @@
 {
-  "pensamentos":[
+  "pensamentos": [
     {
-      "id":1,
-      "conteudo": "Conteúdo dos pensamentos!!",
-      "autoria": "Dj",
-      "modelo": "modelo2"
+      "id": 1,
+      "conteudo": "Imagine uma nova história para sua vida e acredite nela.",
+      "autoria": "Paulo Coelho",
+      "modelo": "modelo3"
     },
     {
-      "id":1,
-      "conteudo": "Conteúdo dos pensamentos!!",
-      "autoria": "Dj",
+      "id": 2,
+      "conteudo": "A amizade desenvolve a felicidade e reduz o sofrimento, duplicando a nossa alegria e dividindo a nossa dor.",
+      "autoria": "Joseph Addison ",
       "modelo": "modelo1"
     },
     {
-      "id":1,
-      "conteudo": "Conteúdo dos pensamentos!!",
-      "autoria": "Dj",
+      "conteudo": "Ser feliz sem motivo é a mais autêntica forma de felicidade.",
+      "autoria": "Carlos Drummond de Andrade ",
+      "modelo": "modelo2",
+      "id": 6
+    },
+    {
+      "id": 3,
+      "conteudo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro accusamus maiores quod voluptates pariatur laboriosam cumque nam sit molestias ipsum. Necessitatibus quidem obcaecati reiciendis. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "autoria": "Lorem",
       "modelo": "modelo3"
     },
     {
-      "id":1,
-      "conteudo": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro accusamus maiores quod voluptates pariatur laboriosam cumque nam sit molestias ipsum. Necessitatibus quidem obcaecati reiciendis. Earum illum quasi aspernatur cupiditate est.xxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxxxxx xxxxxxxxxxxxxxxx",
-      "autoria": "Dj",
-      "modelo": "modelo3"
+      "conteudo": "Tudo o que um sonho precisa para ser realizado é alguém que acredite que ele possa ser realizado.",
+      "autoria": "Roberto Shinyashiki",
+      "modelo": "modelo2",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "conteudo": "Nunca deixe ninguém te dizer que não pode fazer alguma coisa. Se você tem um sonho tem que correr atrás dele. As pessoas não conseguem vencer e dizem que você também não vai vencer. Se você quer uma coisa corre atrás.",
+      "autoria": "À Procura da Felicidade",
+      "modelo": "modelo2"
     }
   ]
 }
